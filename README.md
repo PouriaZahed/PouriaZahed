@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PouriaZahed
 - 👀 I’m interested in developing web apps
-- 🌱 I’m currently learning anything new about front-end new development tools
+- 🌱 I’m currently learning anything about front-end new development tools
 - 💞️ I’m looking to collaborate on Angular & React
 - 📫 How to reach me : pouria.devz@gmail.com
 <!---
